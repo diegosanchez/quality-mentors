@@ -16,7 +16,7 @@ Short description (or vision / purpose) of the group
 
 ## Internal documents
 
-- Meeting minutes
+- [Meeting minutes](docs/internal/meeting-minutes/index.md)
 
 
 ## Contact / Support
