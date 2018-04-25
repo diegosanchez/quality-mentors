@@ -18,6 +18,9 @@ Short description (or vision / purpose) of the group
 
 - [Meeting minutes](docs/internal/meeting-minutes/index.md)
 
+## Lecturas Adicionales
+
+- [Estado del arte y tendencias en  Test-Driven Development](http://web.fi.uba.ar/~cfontela/Fontela_EstadoDelArteTDD_UNLP_EIS.pdf)
 
 ## Contact / Support
 
